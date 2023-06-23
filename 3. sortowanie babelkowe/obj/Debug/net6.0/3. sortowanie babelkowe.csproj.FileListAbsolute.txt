@@ -1,0 +1,15 @@
+D:\VS\Projects\lab04\3. sortowanie babelkowe\bin\Debug\net6.0\3. sortowanie babelkowe.exe
+D:\VS\Projects\lab04\3. sortowanie babelkowe\bin\Debug\net6.0\3. sortowanie babelkowe.deps.json
+D:\VS\Projects\lab04\3. sortowanie babelkowe\bin\Debug\net6.0\3. sortowanie babelkowe.runtimeconfig.json
+D:\VS\Projects\lab04\3. sortowanie babelkowe\bin\Debug\net6.0\3. sortowanie babelkowe.dll
+D:\VS\Projects\lab04\3. sortowanie babelkowe\bin\Debug\net6.0\3. sortowanie babelkowe.pdb
+D:\VS\Projects\lab04\3. sortowanie babelkowe\obj\Debug\net6.0\3. sortowanie babelkowe.csproj.AssemblyReference.cache
+D:\VS\Projects\lab04\3. sortowanie babelkowe\obj\Debug\net6.0\3. sortowanie babelkowe.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\lab04\3. sortowanie babelkowe\obj\Debug\net6.0\3. sortowanie babelkowe.AssemblyInfoInputs.cache
+D:\VS\Projects\lab04\3. sortowanie babelkowe\obj\Debug\net6.0\3. sortowanie babelkowe.AssemblyInfo.cs
+D:\VS\Projects\lab04\3. sortowanie babelkowe\obj\Debug\net6.0\3. sortowanie babelkowe.csproj.CoreCompileInputs.cache
+D:\VS\Projects\lab04\3. sortowanie babelkowe\obj\Debug\net6.0\3. sortowanie babelkowe.dll
+D:\VS\Projects\lab04\3. sortowanie babelkowe\obj\Debug\net6.0\refint\3. sortowanie babelkowe.dll
+D:\VS\Projects\lab04\3. sortowanie babelkowe\obj\Debug\net6.0\3. sortowanie babelkowe.pdb
+D:\VS\Projects\lab04\3. sortowanie babelkowe\obj\Debug\net6.0\3. sortowanie babelkowe.genruntimeconfig.cache
+D:\VS\Projects\lab04\3. sortowanie babelkowe\obj\Debug\net6.0\ref\3. sortowanie babelkowe.dll

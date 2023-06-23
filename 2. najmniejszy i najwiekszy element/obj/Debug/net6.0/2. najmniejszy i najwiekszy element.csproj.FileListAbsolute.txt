@@ -1,0 +1,15 @@
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\bin\Debug\net6.0\2. najmniejszy i najwiekszy element.exe
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\bin\Debug\net6.0\2. najmniejszy i najwiekszy element.deps.json
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\bin\Debug\net6.0\2. najmniejszy i najwiekszy element.runtimeconfig.json
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\bin\Debug\net6.0\2. najmniejszy i najwiekszy element.dll
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\bin\Debug\net6.0\2. najmniejszy i najwiekszy element.pdb
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\obj\Debug\net6.0\2. najmniejszy i najwiekszy element.csproj.AssemblyReference.cache
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\obj\Debug\net6.0\2. najmniejszy i najwiekszy element.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\obj\Debug\net6.0\2. najmniejszy i najwiekszy element.AssemblyInfoInputs.cache
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\obj\Debug\net6.0\2. najmniejszy i najwiekszy element.AssemblyInfo.cs
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\obj\Debug\net6.0\2. najmniejszy i najwiekszy element.csproj.CoreCompileInputs.cache
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\obj\Debug\net6.0\2. najmniejszy i najwiekszy element.dll
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\obj\Debug\net6.0\refint\2. najmniejszy i najwiekszy element.dll
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\obj\Debug\net6.0\2. najmniejszy i najwiekszy element.pdb
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\obj\Debug\net6.0\2. najmniejszy i najwiekszy element.genruntimeconfig.cache
+D:\VS\Projects\lab04\2. najmniejszy i najwiekszy element\obj\Debug\net6.0\ref\2. najmniejszy i najwiekszy element.dll

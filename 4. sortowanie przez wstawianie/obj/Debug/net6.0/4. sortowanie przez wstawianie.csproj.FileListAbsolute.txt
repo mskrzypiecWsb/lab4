@@ -1,0 +1,15 @@
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\bin\Debug\net6.0\4. sortowanie przez wstawianie.exe
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\bin\Debug\net6.0\4. sortowanie przez wstawianie.deps.json
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\bin\Debug\net6.0\4. sortowanie przez wstawianie.runtimeconfig.json
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\bin\Debug\net6.0\4. sortowanie przez wstawianie.dll
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\bin\Debug\net6.0\4. sortowanie przez wstawianie.pdb
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\obj\Debug\net6.0\4. sortowanie przez wstawianie.csproj.AssemblyReference.cache
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\obj\Debug\net6.0\4. sortowanie przez wstawianie.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\obj\Debug\net6.0\4. sortowanie przez wstawianie.AssemblyInfoInputs.cache
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\obj\Debug\net6.0\4. sortowanie przez wstawianie.AssemblyInfo.cs
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\obj\Debug\net6.0\4. sortowanie przez wstawianie.csproj.CoreCompileInputs.cache
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\obj\Debug\net6.0\4. sortowanie przez wstawianie.dll
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\obj\Debug\net6.0\refint\4. sortowanie przez wstawianie.dll
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\obj\Debug\net6.0\4. sortowanie przez wstawianie.pdb
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\obj\Debug\net6.0\4. sortowanie przez wstawianie.genruntimeconfig.cache
+D:\VS\Projects\lab04\4. sortowanie przez wstawianie\obj\Debug\net6.0\ref\4. sortowanie przez wstawianie.dll

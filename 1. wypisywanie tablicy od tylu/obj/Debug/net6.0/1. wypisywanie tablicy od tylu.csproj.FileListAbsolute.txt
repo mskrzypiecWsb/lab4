@@ -1,0 +1,15 @@
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\bin\Debug\net6.0\1. wypisywanie tablicy od tylu.exe
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\bin\Debug\net6.0\1. wypisywanie tablicy od tylu.deps.json
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\bin\Debug\net6.0\1. wypisywanie tablicy od tylu.runtimeconfig.json
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\bin\Debug\net6.0\1. wypisywanie tablicy od tylu.dll
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\bin\Debug\net6.0\1. wypisywanie tablicy od tylu.pdb
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\obj\Debug\net6.0\1. wypisywanie tablicy od tylu.csproj.AssemblyReference.cache
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\obj\Debug\net6.0\1. wypisywanie tablicy od tylu.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\obj\Debug\net6.0\1. wypisywanie tablicy od tylu.AssemblyInfoInputs.cache
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\obj\Debug\net6.0\1. wypisywanie tablicy od tylu.AssemblyInfo.cs
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\obj\Debug\net6.0\1. wypisywanie tablicy od tylu.csproj.CoreCompileInputs.cache
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\obj\Debug\net6.0\1. wypisywanie tablicy od tylu.dll
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\obj\Debug\net6.0\refint\1. wypisywanie tablicy od tylu.dll
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\obj\Debug\net6.0\1. wypisywanie tablicy od tylu.pdb
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\obj\Debug\net6.0\1. wypisywanie tablicy od tylu.genruntimeconfig.cache
+D:\VS\Projects\lab04\1. wypisywanie tablicy od tylu\obj\Debug\net6.0\ref\1. wypisywanie tablicy od tylu.dll
